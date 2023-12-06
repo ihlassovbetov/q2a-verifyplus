@@ -1,6 +1,6 @@
 # q2a-verifyplus
 <b>Plugin Name:</b>  Verify Plus <br>
-<b>Price:</b> 50 USD (contact me to buy) <br>
+<b>Price:</b> 30 USD (contact me to buy) <br>
 <b>Plugin Description:</b> This is a premium-paid Q2A plugin that offers account verification (blue tick) for q2a users.<br>
 <br>
 <ul class="first">
